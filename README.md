@@ -1,1 +1,3 @@
-# sample-repository
+Scanning..
+
+added some code
